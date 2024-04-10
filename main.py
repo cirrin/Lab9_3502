@@ -1,3 +1,5 @@
+# sherwood dong
+
 from Scratch import decode
 
 def encode(pw):
