@@ -1,6 +1,6 @@
 # sherwood dong
 
-from Scratch import decode
+from SwenLab9COP3502.Scratch import decode
 
 def encode(pw):
     newstr = ""
